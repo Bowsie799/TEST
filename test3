@@ -2,17 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Open Multiple Popups</title>
+  <title>Not a Trap</title>
 </head>
 <body>
-  <button onclick="openPopups(10)">Open Multiple Popups</button>
+  <button onclick="openPopupswithdelay(10, 2000)">Do not click that thing</button>
 
   <script>
-    function openPopups() {
-      for (let i = 0; i < 5; i++) {  // Adjust number as needed
-        window.open('https://www.youtube.com/watch?v=xvFZjo5PgG0', '_blank', 'width=400,height=300');
-      }
+    function openPopupswithdelay(n, delay) {
+      for (let i = 0; i < n; i++) {
+    setTimeout((10000) => {  // Adjust number as needed
+        window.open('https://www.youtube.com/watch?v=xvFZjo5PgG0', '_blank', 'width=4000,height=3000');
+      }, i * delay);
     }
+}
   </script>
 </body>
 </html>
