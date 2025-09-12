@@ -5,7 +5,7 @@
   <title>Not a Trap</title>
 </head>
 <body>
-  <button onclick="openPopupswithdelay(10, 2000)">Do not click that thing</button>
+  <button onclick="openPopupswithdelay(5, 500)">Do not click that thing</button>
 
   <script>
     function openPopupswithdelay(n, delay) {
