@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Open Multiple Popups</title>
+</head>
+<body>
+  <button onclick="openPopups()">Open Multiple Popups</button>
+
+  <script>
+    function openPopups() {
+      for (let i = 0; i < 5; i++) {  // Adjust number as needed
+        window.open('https://www.youtube.com/watch?v=xvFZjo5PgG0', '_blank', 'width=400,height=300');
+      }
+    }
+  </script>
+</body>
+</html>
