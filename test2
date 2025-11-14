@@ -8,7 +8,8 @@
     font-family: Arial;
     color: red;
    }
-    .game1 { 
+    .game1 {
+    font-size: 1 px
     font-family: Wingdings;
     color: white;
    }
@@ -18,7 +19,7 @@
  <body>
   <h6 class="game">Its obviously a trap:</h6>
   <p>
-   <a class="game1" href="file:///home/chronos/u-0d3260758391de329663c65e89e37099874dbedb/MyFiles/Downloads/AUDIO_DRONE%20(online-audio-converter.com).mp3"> <h1 class="game1"> <strong> Don't click to that <em>link</em> </strong> </h1>
+   <a class="game1" href="https://www.google.com/search?q=html+script&rlz=1CAHVCY_enCA1186&oq=html+scr&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8&safe=active&ssui=on"> <h1 class="game1"> <strong> Don't click to that <em>link</em> </strong> </h1>
   </p>
  </body>
 </html>
