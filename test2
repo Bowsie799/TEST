@@ -1,14 +1,15 @@
 <!doctype html>
 <html>
 <head>
-<style>
-.game { 
-  font-size: 60px;
-  font-family: Arial;
-  color: red;
-}
-</style>
-<title>Souvent, nos yeux ne peuvent voir certaines choses<title>
+  <meta charset="UTF-8" />
+  <style>
+    .game { 
+    font-size: 60px;
+    font-family: Arial;
+    color: red;
+   }
+   </style>
+    <title>Souvent, nos yeux ne peuvent voir certaines choses<title>
 </head>
  <body>
   <h6 class="game">Its obviously a trap:</h6>
