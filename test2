@@ -8,13 +8,17 @@
     font-family: Arial;
     color: red;
    }
+    .game1 { 
+    font-family: Wingdings;
+    color: red;
+   }
    </style>
     <title>Souvent, nos yeux ne peuvent voir certaines choses</title>
 </head>
  <body>
   <h6 class="game">Its obviously a trap:</h6>
   <p>
-   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"> <h1> <strong> Don't click to that <em>link</em> </strong> </h1>
+   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"> <h1 class="game1"> <strong> Don't click to that <em>link</em> </strong> </h1>
   </p>
  </body>
 </html>
