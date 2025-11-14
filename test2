@@ -5,6 +5,7 @@
 .game { 
   font-size: 60px;
   font-family: Arial;
+  color: red;
 }
 </style>
 <title>Souvent, nos yeux ne peuvent voir certaines choses<title>
