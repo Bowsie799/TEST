@@ -16,15 +16,9 @@ background-color: purple;
   font-family: Papyrus;
   color: White;
   }
-h1 {
+h1 { 
   color: white;
    }
-/*
-Source - https://stackoverflow.com/a
-Posted by BLUBBER, modified by community. See post 'Timeline' for change history
-Retrieved 2026-01-07, License - CC BY-SA 4.0
-*/
-
 a:active {
   color: green;
 }
